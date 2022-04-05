@@ -1,0 +1,173 @@
+2022-04-01 09:32:42 DEBUG BasePageWeb:45 - wait for the element to be clickable or not
+2022-04-01 09:32:43 DEBUG BasePageWeb:47 - click on the given element
+2022-04-01 09:32:44 DEBUG BasePageWeb:81 - wait for the element to be clickable or not
+2022-04-01 09:32:44 DEBUG BasePageWeb:83 - clear the content in given editbox element
+2022-04-01 09:32:44 DEBUG BasePageWeb:81 - wait for the element to be clickable or not
+2022-04-01 09:32:44 DEBUG BasePageWeb:83 - clear the content in given editbox element
+2022-04-01 09:32:44 DEBUG BasePageWeb:45 - wait for the element to be clickable or not
+2022-04-01 09:32:44 DEBUG BasePageWeb:47 - click on the given element
+2022-04-01 09:32:49 DEBUG ExcelUtils:31 - Specify the path of file :C:\Users\vinde\eclipse-workspace\HybridFramework2022\src\test\java\com\qa\linkedin\data\searchdata.xlsx
+2022-04-01 09:32:49 DEBUG ExcelUtils:34 - read the file
+2022-04-01 09:32:49 DEBUG ExcelUtils:36 - Load workbook
+2022-04-01 09:32:50 DEBUG ExcelUtils:41 - fetch the row count
+2022-04-01 09:32:50 DEBUG ExcelUtils:43 - number of rows in the excel sheet is-->6
+2022-04-01 09:32:50 DEBUG ExcelUtils:45 - number of columns in the excel sheet is -->1
+2022-04-01 09:32:50 DEBUG LinkedinLoggedinPage:35 - wait for the linkedin Loggedin page title:(99+) Feed | LinkedIn
+2022-04-01 09:32:50 DEBUG LinkedinLoggedinPage:41 - Verify the linkedin Profile rail card element
+2022-04-01 09:32:50 DEBUG LinkedinLoggedinPage:59 - Started excuting the doPeopleSearch() for the keyword::Rajesh
+2022-04-01 09:32:50 DEBUG LinkedinLoggedinPage:60 - clear the content in the search edit box
+2022-04-01 09:32:50 DEBUG BasePageWeb:81 - wait for the element to be clickable or not
+2022-04-01 09:32:50 DEBUG BasePageWeb:83 - clear the content in given editbox element
+2022-04-01 09:32:50 DEBUG LinkedinLoggedinPage:62 - type the search keywrod:Rajesh in search editbox
+2022-04-01 09:32:50 DEBUG LinkedinLoggedinPage:64 - Press the Enter key on the search Edit box
+2022-04-01 09:32:51 DEBUG SearchResultsPage:31 - wait for the search results page title
+2022-04-01 09:32:52 DEBUG BasePageWeb:45 - wait for the element to be clickable or not
+2022-04-01 09:32:52 DEBUG BasePageWeb:47 - click on the given element
+2022-04-01 09:32:52 DEBUG SearchResultsPage:53 - fetch the  results count text
+2022-04-01 09:32:53 DEBUG SearchResultsPage:60 - Results count in string format=428,000
+2022-04-01 09:32:53 DEBUG SearchResultsPage:62 - Convert Sting into long interger
+2022-04-01 09:32:53 DEBUG SearchResultsPage:69 - click on see click On HomeTab
+2022-04-01 09:32:53 DEBUG BasePageWeb:45 - wait for the element to be clickable or not
+2022-04-01 09:32:53 DEBUG BasePageWeb:47 - click on the given element
+2022-04-01 09:32:53 DEBUG LinkedinLoggedinPage:35 - wait for the linkedin Loggedin page title:(99+) Feed | LinkedIn
+2022-04-01 09:32:53 DEBUG LinkedinLoggedinPage:41 - Verify the linkedin Profile rail card element
+2022-04-01 09:32:54 DEBUG LinkedinLoggedinPage:59 - Started excuting the doPeopleSearch() for the keyword::Sreedevi
+2022-04-01 09:32:54 DEBUG LinkedinLoggedinPage:60 - clear the content in the search edit box
+2022-04-01 09:32:54 DEBUG BasePageWeb:81 - wait for the element to be clickable or not
+2022-04-01 09:32:54 DEBUG BasePageWeb:83 - clear the content in given editbox element
+2022-04-01 09:32:54 DEBUG LinkedinLoggedinPage:62 - type the search keywrod:Sreedevi in search editbox
+2022-04-01 09:32:54 DEBUG LinkedinLoggedinPage:64 - Press the Enter key on the search Edit box
+2022-04-01 09:32:54 DEBUG SearchResultsPage:31 - wait for the search results page title
+2022-04-01 09:32:55 DEBUG BasePageWeb:45 - wait for the element to be clickable or not
+2022-04-01 09:32:55 DEBUG BasePageWeb:47 - click on the given element
+2022-04-01 09:32:55 DEBUG SearchResultsPage:53 - fetch the  results count text
+2022-04-01 09:32:57 DEBUG SearchResultsPage:60 - Results count in string format=17,000
+2022-04-01 09:32:57 DEBUG SearchResultsPage:62 - Convert Sting into long interger
+2022-04-01 09:32:57 DEBUG SearchResultsPage:69 - click on see click On HomeTab
+2022-04-01 09:32:57 DEBUG BasePageWeb:45 - wait for the element to be clickable or not
+2022-04-01 09:32:57 DEBUG BasePageWeb:47 - click on the given element
+2022-04-01 09:32:57 DEBUG LinkedinLoggedinPage:35 - wait for the linkedin Loggedin page title:(99+) Feed | LinkedIn
+2022-04-01 09:32:58 DEBUG LinkedinLoggedinPage:41 - Verify the linkedin Profile rail card element
+2022-04-01 09:32:58 DEBUG LinkedinLoggedinPage:59 - Started excuting the doPeopleSearch() for the keyword::Ramesh
+2022-04-01 09:32:58 DEBUG LinkedinLoggedinPage:60 - clear the content in the search edit box
+2022-04-01 09:32:58 DEBUG BasePageWeb:81 - wait for the element to be clickable or not
+2022-04-01 09:32:58 DEBUG BasePageWeb:83 - clear the content in given editbox element
+2022-04-01 09:32:58 DEBUG LinkedinLoggedinPage:62 - type the search keywrod:Ramesh in search editbox
+2022-04-01 09:32:58 DEBUG LinkedinLoggedinPage:64 - Press the Enter key on the search Edit box
+2022-04-01 09:32:58 DEBUG SearchResultsPage:31 - wait for the search results page title
+2022-04-01 09:32:59 DEBUG BasePageWeb:45 - wait for the element to be clickable or not
+2022-04-01 09:32:59 DEBUG BasePageWeb:47 - click on the given element
+2022-04-01 09:33:00 DEBUG SearchResultsPage:53 - fetch the  results count text
+2022-04-01 09:33:00 DEBUG SearchResultsPage:60 - Results count in string format=297,000
+2022-04-01 09:33:00 DEBUG SearchResultsPage:62 - Convert Sting into long interger
+2022-04-01 09:33:00 DEBUG SearchResultsPage:69 - click on see click On HomeTab
+2022-04-01 09:33:00 DEBUG BasePageWeb:45 - wait for the element to be clickable or not
+2022-04-01 09:33:00 DEBUG BasePageWeb:47 - click on the given element
+2022-04-01 09:33:00 DEBUG LinkedinLoggedinPage:35 - wait for the linkedin Loggedin page title:(99+) Feed | LinkedIn
+2022-04-01 09:33:01 DEBUG LinkedinLoggedinPage:41 - Verify the linkedin Profile rail card element
+2022-04-01 09:33:01 DEBUG LinkedinLoggedinPage:59 - Started excuting the doPeopleSearch() for the keyword::Raja
+2022-04-01 09:33:01 DEBUG LinkedinLoggedinPage:60 - clear the content in the search edit box
+2022-04-01 09:33:01 DEBUG BasePageWeb:81 - wait for the element to be clickable or not
+2022-04-01 09:33:01 DEBUG BasePageWeb:83 - clear the content in given editbox element
+2022-04-01 09:33:01 DEBUG LinkedinLoggedinPage:62 - type the search keywrod:Raja in search editbox
+2022-04-01 09:33:01 DEBUG LinkedinLoggedinPage:64 - Press the Enter key on the search Edit box
+2022-04-01 09:33:01 DEBUG SearchResultsPage:31 - wait for the search results page title
+2022-04-01 09:33:02 DEBUG BasePageWeb:45 - wait for the element to be clickable or not
+2022-04-01 09:33:03 DEBUG BasePageWeb:47 - click on the given element
+2022-04-01 09:33:03 DEBUG SearchResultsPage:53 - fetch the  results count text
+2022-04-01 09:33:03 DEBUG SearchResultsPage:60 - Results count in string format=345,000
+2022-04-01 09:33:03 DEBUG SearchResultsPage:62 - Convert Sting into long interger
+2022-04-01 09:33:03 DEBUG SearchResultsPage:69 - click on see click On HomeTab
+2022-04-01 09:33:03 DEBUG BasePageWeb:45 - wait for the element to be clickable or not
+2022-04-01 09:33:04 DEBUG BasePageWeb:47 - click on the given element
+2022-04-01 09:33:04 DEBUG LinkedinLoggedinPage:35 - wait for the linkedin Loggedin page title:(99+) Feed | LinkedIn
+2022-04-01 09:33:04 DEBUG LinkedinLoggedinPage:41 - Verify the linkedin Profile rail card element
+2022-04-01 09:33:04 DEBUG LinkedinLoggedinPage:59 - Started excuting the doPeopleSearch() for the keyword::Sunita
+2022-04-01 09:33:04 DEBUG LinkedinLoggedinPage:60 - clear the content in the search edit box
+2022-04-01 09:33:04 DEBUG BasePageWeb:81 - wait for the element to be clickable or not
+2022-04-01 09:33:04 DEBUG BasePageWeb:83 - clear the content in given editbox element
+2022-04-01 09:33:04 DEBUG LinkedinLoggedinPage:62 - type the search keywrod:Sunita in search editbox
+2022-04-01 09:33:04 DEBUG LinkedinLoggedinPage:64 - Press the Enter key on the search Edit box
+2022-04-01 09:33:04 DEBUG SearchResultsPage:31 - wait for the search results page title
+2022-04-01 09:33:06 DEBUG BasePageWeb:45 - wait for the element to be clickable or not
+2022-04-01 09:33:06 DEBUG BasePageWeb:47 - click on the given element
+2022-04-01 09:33:06 DEBUG SearchResultsPage:53 - fetch the  results count text
+2022-04-01 09:33:06 DEBUG SearchResultsPage:60 - Results count in string format=72,000
+2022-04-01 09:33:06 DEBUG SearchResultsPage:62 - Convert Sting into long interger
+2022-04-01 09:33:06 DEBUG SearchResultsPage:69 - click on see click On HomeTab
+2022-04-01 09:33:06 DEBUG BasePageWeb:45 - wait for the element to be clickable or not
+2022-04-01 09:33:06 DEBUG BasePageWeb:47 - click on the given element
+2022-04-01 09:33:06 DEBUG LinkedinLoggedinPage:35 - wait for the linkedin Loggedin page title:(99+) Feed | LinkedIn
+2022-04-01 09:33:07 DEBUG LinkedinLoggedinPage:41 - Verify the linkedin Profile rail card element
+2022-04-01 09:33:07 DEBUG LinkedinLoggedinPage:59 - Started excuting the doPeopleSearch() for the keyword::Neha
+2022-04-01 09:33:07 DEBUG LinkedinLoggedinPage:60 - clear the content in the search edit box
+2022-04-01 09:33:07 DEBUG BasePageWeb:81 - wait for the element to be clickable or not
+2022-04-01 09:33:07 DEBUG BasePageWeb:83 - clear the content in given editbox element
+2022-04-01 09:33:07 DEBUG LinkedinLoggedinPage:62 - type the search keywrod:Neha in search editbox
+2022-04-01 09:33:07 DEBUG LinkedinLoggedinPage:64 - Press the Enter key on the search Edit box
+2022-04-01 09:33:07 DEBUG SearchResultsPage:31 - wait for the search results page title
+2022-04-01 09:33:08 DEBUG BasePageWeb:45 - wait for the element to be clickable or not
+2022-04-01 09:33:08 DEBUG BasePageWeb:47 - click on the given element
+2022-04-01 09:33:08 DEBUG SearchResultsPage:53 - fetch the  results count text
+2022-04-01 09:33:09 DEBUG SearchResultsPage:60 - Results count in string format=221,000
+2022-04-01 09:33:09 DEBUG SearchResultsPage:62 - Convert Sting into long interger
+2022-04-01 09:33:09 DEBUG SearchResultsPage:69 - click on see click On HomeTab
+2022-04-01 09:33:09 DEBUG BasePageWeb:45 - wait for the element to be clickable or not
+2022-04-01 09:33:09 DEBUG BasePageWeb:47 - click on the given element
+2022-04-01 09:33:09 DEBUG LinkedinLoggedinPage:47 - started executinf the doLogOut() method
+2022-04-01 09:33:09 DEBUG LinkedinLoggedinPage:50 - click on profile image icon
+2022-04-01 09:33:09 DEBUG BasePageWeb:45 - wait for the element to be clickable or not
+2022-04-01 09:33:09 DEBUG BasePageWeb:47 - click on the given element
+2022-04-01 09:33:10 DEBUG LinkedinLoggedinPage:54 - click on sign out link
+2022-04-01 09:33:10 DEBUG BasePageWeb:45 - wait for the element to be clickable or not
+2022-04-01 09:33:10 DEBUG BasePageWeb:47 - click on the given element
+2022-04-01 09:33:10 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2022-04-01 09:33:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2022-04-01 09:33:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2022-04-01 09:33:10 DEBUG cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/vinde/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2022-04-01 09:33:10 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2022-04-01 09:33:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2022-04-01 09:33:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2022-04-01 09:33:10 DEBUG cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/vinde/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2022-04-01 09:33:10 DEBUG cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2022-04-01 09:33:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2022-04-01 09:33:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2022-04-01 09:33:10 DEBUG cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/vinde/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2022-04-01 09:33:10 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-04-01 09:33:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2022-04-01 09:33:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2022-04-01 09:33:10 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/vinde/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2022-04-01 09:33:10 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2022-04-01 09:33:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2022-04-01 09:33:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2022-04-01 09:33:10 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/vinde/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2022-04-01 09:33:10 DEBUG cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2022-04-01 09:33:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2022-04-01 09:33:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2022-04-01 09:33:10 DEBUG cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/vinde/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2022-04-01 09:33:10 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-04-01 09:33:10 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-04-01 09:33:10 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-04-01 09:33:10 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-04-01 09:33:10 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-04-01 09:33:10 DEBUG cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-04-01 09:33:10 DEBUG cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-04-01 09:33:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2022-04-01 09:33:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2022-04-01 09:33:10 DEBUG cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/vinde/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2022-04-01 09:33:10 DEBUG cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-04-01 09:33:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2022-04-01 09:33:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2022-04-01 09:33:10 DEBUG cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/vinde/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2022-04-01 09:33:10 DEBUG cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-04-01 09:33:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2022-04-01 09:33:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2022-04-01 09:33:10 DEBUG cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/vinde/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2022-04-01 09:33:10 DEBUG cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-04-01 09:33:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2022-04-01 09:33:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2022-04-01 09:33:10 DEBUG cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/vinde/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2022-04-01 09:33:10 DEBUG cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-04-01 09:33:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2022-04-01 09:33:10 DEBUG cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2022-04-01 09:33:10 DEBUG cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/vinde/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"

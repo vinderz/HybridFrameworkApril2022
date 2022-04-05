@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="LinkedinSuite" duration-ms="27793" started-at="2022-04-01T09:32:42 EDT" finished-at="2022-04-01T09:33:10 EDT">
+    <groups>
+    </groups>
+    <test name="LinkedinTest" duration-ms="27793" started-at="2022-04-01T09:32:42 EDT" finished-at="2022-04-01T09:33:10 EDT">
+      <class name="com.qa.linkedin.testcases.SearchDataDrivenTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.linkedin.testcases.SearchDataDrivenTest@15761df8]" name="setup" is-config="true" duration-ms="4199" started-at="2022-04-01T09:32:38 EDT" finished-at="2022-04-01T09:32:42 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="intializeObjects()[pri:0, instance:com.qa.linkedin.testcases.SearchDataDrivenTest@15761df8]" name="intializeObjects" is-config="true" duration-ms="115" started-at="2022-04-01T09:32:42 EDT" finished-at="2022-04-01T09:32:42 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeObjects -->
+        <test-method status="PASS" signature="doLoginTest()[pri:1, instance:com.qa.linkedin.testcases.SearchDataDrivenTest@15761df8]" name="doLoginTest" duration-ms="7270" started-at="2022-04-01T09:32:42 EDT" finished-at="2022-04-01T09:32:49 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLoginTest -->
+        <test-method status="PASS" signature="dosearchPeopleTest(java.lang.String)[pri:2, instance:com.qa.linkedin.testcases.SearchDataDrivenTest@15761df8]" name="dosearchPeopleTest" duration-ms="2854" started-at="2022-04-01T09:32:50 EDT" data-provider="dp" finished-at="2022-04-01T09:32:53 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rajesh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dosearchPeopleTest -->
+        <test-method status="PASS" signature="dosearchPeopleTest(java.lang.String)[pri:2, instance:com.qa.linkedin.testcases.SearchDataDrivenTest@15761df8]" name="dosearchPeopleTest" duration-ms="4529" started-at="2022-04-01T09:32:53 EDT" data-provider="dp" finished-at="2022-04-01T09:32:57 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sreedevi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dosearchPeopleTest -->
+        <test-method status="PASS" signature="dosearchPeopleTest(java.lang.String)[pri:2, instance:com.qa.linkedin.testcases.SearchDataDrivenTest@15761df8]" name="dosearchPeopleTest" duration-ms="2935" started-at="2022-04-01T09:32:57 EDT" data-provider="dp" finished-at="2022-04-01T09:33:00 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ramesh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dosearchPeopleTest -->
+        <test-method status="PASS" signature="dosearchPeopleTest(java.lang.String)[pri:2, instance:com.qa.linkedin.testcases.SearchDataDrivenTest@15761df8]" name="dosearchPeopleTest" duration-ms="3159" started-at="2022-04-01T09:33:00 EDT" data-provider="dp" finished-at="2022-04-01T09:33:04 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raja]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dosearchPeopleTest -->
+        <test-method status="PASS" signature="dosearchPeopleTest(java.lang.String)[pri:2, instance:com.qa.linkedin.testcases.SearchDataDrivenTest@15761df8]" name="dosearchPeopleTest" duration-ms="2806" started-at="2022-04-01T09:33:04 EDT" data-provider="dp" finished-at="2022-04-01T09:33:06 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sunita]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dosearchPeopleTest -->
+        <test-method status="PASS" signature="dosearchPeopleTest(java.lang.String)[pri:2, instance:com.qa.linkedin.testcases.SearchDataDrivenTest@15761df8]" name="dosearchPeopleTest" duration-ms="2822" started-at="2022-04-01T09:33:06 EDT" data-provider="dp" finished-at="2022-04-01T09:33:09 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Neha]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dosearchPeopleTest -->
+        <test-method status="PASS" signature="logoutTest()[pri:0, instance:com.qa.linkedin.testcases.SearchDataDrivenTest@15761df8]" name="logoutTest" is-config="true" duration-ms="527" started-at="2022-04-01T09:33:09 EDT" finished-at="2022-04-01T09:33:10 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.qa.linkedin.testcases.SearchDataDrivenTest@15761df8]" name="afterClass" is-config="true" duration-ms="717" started-at="2022-04-01T09:33:10 EDT" finished-at="2022-04-01T09:33:11 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.qa.linkedin.testcases.SearchDataDrivenTest -->
+    </test> <!-- LinkedinTest -->
+  </suite> <!-- LinkedinSuite -->
+</testng-results>
